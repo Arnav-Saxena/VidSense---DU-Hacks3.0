@@ -15,7 +15,7 @@
 ## Browser extension ##
 - Open the YouTube video based on which you would like to ask a question.
 - Open the extension.
-- Type in a question and click on "Answer" for question answering or click on"summarize" to get a quick summary.
+- Type in a question and click on "Answer" for question answering or click on "summarize" to get a quick summary.
 - The answer would now be displayed in the answer text box.
 ## Website ##
 
